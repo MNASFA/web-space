@@ -108,7 +108,7 @@ background-color: white;
   min-height: 100vh;
 }
 #left img{
-  opacity: 0;
+  
   width: 100%;
 
 }
@@ -195,7 +195,7 @@ background-color: white;
 }
 
 
-.carditem{opacity: 0;
+.carditem{
  width: 20%;
  height: 15em;
  cursor: pointer;
@@ -468,18 +468,7 @@ li{
 #img1{
   opacity: 1;
 }
-#img2{
-  opacity: 0;
-}
-#img3{
-  opacity: 0;
-}
-#img4{
-  opacity: 0;
-}
-#img5{
-  opacity: 0;
-}
+
 
 #container1{
   background-color: beige;
